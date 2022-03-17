@@ -10,6 +10,30 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HealthIQ">
         <activity
+            android:name=".recipe.HypRecipe"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Gout"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Cholesterol"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Kidney"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Hypoglycemia"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Arthritis"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Diabetes"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Covid19"
+            android:exported="false" />
+        <activity
             android:name=".ui.Help"
             android:exported="false" />
         <activity

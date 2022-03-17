@@ -7,9 +7,16 @@
         <entry key="app/src/main/res/drawable/card.xml" value="0.1185" />
         <entry key="app/src/main/res/drawable/linear.xml" value="0.1595" />
         <entry key="app/src/main/res/drawable/search.xml" value="0.1595" />
+        <entry key="app/src/main/res/layout/activity_arthritis.xml" value="0.29286019666524155" />
+        <entry key="app/src/main/res/layout/activity_cholesterol.xml" value="0.29286019666524155" />
+        <entry key="app/src/main/res/layout/activity_covid19.xml" value="0.29286019666524155" />
+        <entry key="app/src/main/res/layout/activity_diabetes.xml" value="0.2804617357845233" />
+        <entry key="app/src/main/res/layout/activity_gout.xml" value="0.29286019666524155" />
         <entry key="app/src/main/res/layout/activity_help.xml" value="0.22958529286019666" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_hypertension.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_hypoglycemia.xml" value="0.2804617357845233" />
+        <entry key="app/src/main/res/layout/activity_kidney.xml" value="0.2804617357845233" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/hypertensionrecipie.xml" value="0.22958529286019666" />
       </map>
