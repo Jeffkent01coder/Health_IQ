@@ -54,7 +54,6 @@
     <string name="arthritis">ARTHRITIS</string>
     <string name="hypoglycemia">HYPOGLYCEMIA</string>
     <string name="kidney_disease">KIDNEY DISEASE</string>
-    <string name="high_cholesterol" tools:ignore="DuplicateDefinition">HIGH CHOLESTEROL</string>
     <string name="an_acute_respiratory_illness_in_humans_caused_by_a_coronavirus_capable_of_producing_severe_symptoms_and_in_some_cases_death_especially_in_older_people_and_those_with_underlying_health_conditions">An acute respiratory illness in humans caused by a coronavirus, capable of producing severe symptoms and in some cases death, especially in older people and those with underlying health conditions</string>
     <string name="infection_with_severe_acute_respiratory_syndrome_coronavirus_2_or_sars_cov_2_causes_coronavirus_disease_2019_covid_19"><![CDATA[-> Infection with severe acute respiratory syndrome coronavirus 2, or SARS-CoV-2, causes coronavirus disease 2019 (COVID-19).]]></string>
     <string name="shortness_of_breath"><![CDATA[-> Shortness of breath]]></string>
@@ -94,7 +93,6 @@
     <string name="wear_and_tear_of_a_joint_from_overuse"><![CDATA[-> Wear and tear of a joint from overuse]]></string>
     <string name="age_oa_is_most_common_in_adults_over_age_50"><![CDATA[-> Age (OA is most common in adults over age 50)]]></string>
     <string name="injuries"><![CDATA[-> Injuries]]></string>
-    <string name="obesity" tools:ignore="DuplicateDefinition"><![CDATA[-> Obesity]]></string>
     <string name="autoimmune_disorders"><![CDATA[-> Autoimmune disorders]]></string>
     <string name="genes_or_family_history"><![CDATA[-> Genes or family history]]></string>
     <string name="muscle_weakness"><![CDATA[-> Muscle weakness]]></string>

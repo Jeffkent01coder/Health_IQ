@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HealthIQ">
         <activity
+            android:name=".web.LinkedIn"
+            android:exported="false" />
+        <activity
+            android:name=".web.Instagram"
+            android:exported="false" />
+        <activity
+            android:name=".web.Twitter"
+            android:exported="false" />
+        <activity
+            android:name=".web.Facebook"
+            android:exported="false" />
+        <activity
             android:name=".recipe.KidneyRecipe"
             android:exported="false" />
         <activity
