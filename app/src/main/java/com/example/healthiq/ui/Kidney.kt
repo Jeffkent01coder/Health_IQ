@@ -1,8 +1,11 @@
 package com.example.healthiq.ui
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.healthiq.databinding.ActivityKidneyBinding
+import com.example.healthiq.recipe.CovidRecipe
+import com.example.healthiq.recipe.KidneyRecipe
 
 class Kidney : AppCompatActivity() {
     private lateinit var binding: ActivityKidneyBinding
@@ -11,5 +14,9 @@ class Kidney : AppCompatActivity() {
         supportActionBar?.hide()
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
+
+        binding.btnRecipeHyp.setOnClickListener {
+            startActivity(Intent(this, KidneyRecipe::class.java))
+        }
     }
 }

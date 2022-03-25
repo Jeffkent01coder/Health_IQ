@@ -1,9 +1,10 @@
 package com.example.healthiq.ui
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.example.healthiq.databinding.ActivityHypertensionBinding
+import com.example.healthiq.recipe.HypRecipe
 
 class Hypertension : AppCompatActivity() {
     private lateinit var binding: ActivityHypertensionBinding
@@ -17,8 +18,8 @@ class Hypertension : AppCompatActivity() {
             startActivity(Intent(this, Home::class.java))
         }
 
-//        binding.btnRecipeHyp.setOnClickListener {
-//            startActivity(Intent(this, ))
-//        }
+        binding.btnRecipeHyp.setOnClickListener {
+            startActivity(Intent(this, HypRecipe::class.java))
+        }
     }
 }
