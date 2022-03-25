@@ -64,7 +64,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="@string/citrus_fruits"
+                    android:text="@string/pure_honey"
                     android:textColor="@color/black"
                     android:textSize="20sp"
                     android:textStyle="bold" />
@@ -74,7 +74,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginHorizontal="10dp"
                     android:scaleType="fitXY"
-                    android:src="@drawable/cfh" />
+                    android:src="@drawable/h" />
 
             </LinearLayout>
 
@@ -163,7 +163,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="pumpkin seeds"
+                    android:text="@string/pumpkin_seeds"
                     android:textColor="@color/black"
                     android:textSize="20sp"
                     android:textStyle="bold" />
@@ -196,7 +196,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="beans and lentils"
+                    android:text="@string/beans_and_lentils"
                     android:textColor="@color/black"
                     android:textSize="20sp"
                     android:textStyle="bold" />
@@ -229,7 +229,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="berries"
+                    android:text="@string/free_fat_milk"
                     android:textColor="@color/black"
                     android:textSize="20sp"
                     android:textStyle="bold" />
@@ -239,7 +239,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginHorizontal="10dp"
                     android:scaleType="fitXY"
-                    android:src="@drawable/br" />
+                    android:src="@drawable/ffm" />
 
             </LinearLayout>
 
@@ -262,7 +262,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="pistachios"
+                    android:text="@string/pistachios"
                     android:textColor="@color/black"
                     android:textSize="20sp"
                     android:textStyle="bold" />

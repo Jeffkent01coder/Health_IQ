@@ -20,5 +20,33 @@ class Home : AppCompatActivity() {
         binding.cvHYPERTENSION.setOnClickListener {
             startActivity(Intent(this, Hypertension::class.java))
         }
+
+        binding.cvAthritis.setOnClickListener {
+            startActivity(Intent(this, Arthritis::class.java))
+        }
+
+        binding.cvCovid.setOnClickListener {
+            startActivity(Intent(this, Covid19::class.java))
+        }
+
+        binding.cvDIABETES.setOnClickListener {
+            startActivity(Intent(this, Diabetes::class.java))
+        }
+
+        binding.cvGout.setOnClickListener {
+            startActivity(Intent(this, Gout::class.java))
+        }
+
+        binding.cvHigh.setOnClickListener {
+            startActivity(Intent(this, Cholesterol::class.java))
+        }
+
+        binding.cvHypo.setOnClickListener {
+            startActivity(Intent(this, Hypoglycemia::class.java))
+        }
+        binding.cvKidney.setOnClickListener {
+            startActivity(Intent(this, Kidney::class.java))
+        }
+
     }
 }

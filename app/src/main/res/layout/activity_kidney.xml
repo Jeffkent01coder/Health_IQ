@@ -96,7 +96,7 @@
                         android:layout_height="wrap_content"
                         android:textColor="@color/black"
                         android:layout_marginHorizontal="5dp"
-                        android:text="@string/high_blood_pressure_also_called_hypertension_is_blood_pressure_that_is_higher_than_normal"
+                        android:text="@string/your_kidneys_are_damaged_and_can_t_filter_blood_the_way_they_should"
                         android:textSize="20sp"
                         />
                 </LinearLayout>
@@ -128,7 +128,7 @@
                     android:layout_marginTop="5dp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/a_diet_high_in_salt_fat_and_or_cholesterol"
+                    android:text="@string/diabetes_conditions"
                     android:textColor="@color/black"
                     android:layout_marginStart="5dp"
                     android:textSize="17sp"
@@ -137,7 +137,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/chronic_conditions_such_as_kidney_and_hormone_problems_diabetes_and_high_cholesterol"
+                    android:text="@string/high_blood_pressure"
                     android:textColor="@color/black"
                     android:layout_marginStart="5dp"
                     android:textSize="17sp"
@@ -145,7 +145,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/family_history_especially_if_your_parents_or_other_close_relatives_have_high_blood_pressure"
+                    android:text="@string/heart_cardiovascular_disease"
                     android:textColor="@color/black"
                     android:layout_marginStart="5dp"
                     android:textSize="17sp"
@@ -154,7 +154,34 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/lack_of_physical_activity"
+                    android:text="@string/smoking"
+                    android:textColor="@color/black"
+                    android:layout_marginStart="5dp"
+                    android:textSize="17sp"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/obesity"
+                    android:textColor="@color/black"
+                    android:layout_marginStart="5dp"
+                    android:textSize="17sp"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/family_history_of_kidney_disease"
+                    android:textColor="@color/black"
+                    android:layout_marginStart="5dp"
+                    android:textSize="17sp"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/abnormal_kidney_structure"
                     android:textColor="@color/black"
                     android:layout_marginStart="5dp"
                     android:textSize="17sp"
@@ -173,7 +200,7 @@
             app:cardCornerRadius="20dp"
             android:layout_marginHorizontal="10dp"
             android:layout_width="match_parent"
-            android:layout_height="200dp">
+            android:layout_height="208dp">
 
             <LinearLayout
                 android:orientation="horizontal"
@@ -216,7 +243,7 @@
                     android:layout_height="wrap_content"
                     android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:text="@string/early_morning_headaches"
+                    android:text="@string/you_re_more_tired_have_less_energy_or_are_having_trouble_concentrating"
                     />
 
                 <TextView
@@ -225,7 +252,7 @@
                     android:layout_height="wrap_content"
                     android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:text="@string/nosebleeds"
+                    android:text="@string/trouble_sleeping"
                     />
 
                 <TextView
@@ -234,7 +261,7 @@
                     android:layout_height="wrap_content"
                     android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:text="@string/irregular_heart_rhythms"
+                    android:text="@string/dry_and_itchy_skin"
                     />
 
                 <TextView
@@ -243,7 +270,7 @@
                     android:layout_height="wrap_content"
                     android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:text="@string/vision_changes"
+                    android:text="@string/the_need_to_urinate_more_often"
                     />
 
                 <TextView
@@ -252,7 +279,7 @@
                     android:layout_height="wrap_content"
                     android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:text="@string/buzzing_in_the_ears"
+                    android:text="@string/blood_in_your_urine"
                     />
 
                 <TextView
@@ -261,7 +288,7 @@
                     android:layout_height="wrap_content"
                     android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:text="@string/difficulty_breathing"
+                    android:text="@string/urine_is_foamy"
                     />
 
                 <TextView
@@ -270,7 +297,7 @@
                     android:layout_height="wrap_content"
                     android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:text="@string/fatigue_nausea_vomiting_confusion_anxiety_chest_pain_and_muscle_tremors"
+                    android:text="@string/experiencing_persistent_puffiness_around_your_eyes"
                     />
 
             </LinearLayout>
@@ -284,7 +311,7 @@
             app:cardCornerRadius="20dp"
             android:layout_marginHorizontal="10dp"
             android:layout_width="match_parent"
-            android:layout_height="200dp">
+            android:layout_height="210dp">
 
             <LinearLayout
                 android:orientation="horizontal"
@@ -328,7 +355,7 @@
                     android:layout_height="wrap_content"
                     android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:text="@string/eat_healthy_foods_eat_a_heart_healthy_diet"
+                    android:text="@string/kidney_transplant"
                     />
 
                 <TextView
@@ -337,7 +364,7 @@
                     android:layout_height="wrap_content"
                     android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:text="@string/decrease_the_salt_in_your_diet"
+                    android:text="@string/dialysis"
                     />
 
                 <TextView
@@ -346,7 +373,7 @@
                     android:layout_height="wrap_content"
                     android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:text="@string/maintain_a_healthy_weight"
+                    android:text="@string/a_lower_protein_diet_to_minimize_waste_products_in_your_blood"
                     />
 
                 <TextView
@@ -355,7 +382,7 @@
                     android:layout_height="wrap_content"
                     android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:text="@string/increase_physical_activity"
+                    android:text="@string/medications_to_protect_your_bones"
                     />
 
                 <TextView
@@ -364,7 +391,7 @@
                     android:layout_height="wrap_content"
                     android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:text="@string/limit_alcohol"
+                    android:text="@string/medications_to_lower_cholesterol_levels"
                     />
 
                 <TextView
@@ -373,7 +400,7 @@
                     android:layout_height="wrap_content"
                     android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:text="@string/don_t_smoke"
+                    android:text="@string/medications_to_treat_anemia"
                     />
 
                 <TextView
@@ -382,7 +409,7 @@
                     android:layout_height="wrap_content"
                     android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:text="@string/manage_stress"
+                    android:text="@string/medications_to_relieve_swelling"
                     />
 
                 <TextView
@@ -391,7 +418,7 @@
                     android:layout_height="wrap_content"
                     android:textColor="@color/black"
                     android:textSize="15sp"
-                    android:text="@string/monitor_your_blood_pressure_at_home"
+                    android:text="@string/high_blood_pressure_medications"
                     />
 
             </LinearLayout>
@@ -443,7 +470,7 @@
                         android:layout_height="wrap_content"
                         android:textColor="@color/black"
                         android:layout_marginHorizontal="5dp"
-                        android:text="@string/we_are_providing_you_with_one_of_the_best_recipe_for_the_most_convenient_food_to_take_as_a_hypertension_patient_this_will_help_you_maintain_good_health_and_to_keep_fit_along_side_take_good_exercise"
+                        android:text="@string/we_are_providing_you_with_one_of_the_best_recipe_for_the_most_convenient_food_to_take_as_a_kidney_disease_patient_this_will_help_you_maintain_good_health_and_to_keep_fit_along_side_take_good_exercise"
                         android:textSize="20sp"
                         />
 
