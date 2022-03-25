@@ -2,7 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.healthiq">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/awareness"
@@ -10,6 +11,9 @@
         android:roundIcon="@drawable/awareness"
         android:supportsRtl="true"
         android:theme="@style/Theme.HealthIQ">
+        <activity
+            android:name=".web.Mail"
+            android:exported="false" />
         <activity
             android:name=".web.LinkedIn"
             android:exported="false" />

@@ -111,6 +111,7 @@
                     />
 
                 <TextView
+                    android:id="@+id/mail"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/ps_health_go_ke"
@@ -179,6 +180,7 @@
                     />
 
                 <TextView
+                    android:id="@+id/FaceWeb"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/https_www_facebook_com_who"
@@ -202,6 +204,7 @@
                     />
 
                 <TextView
+                    android:id="@+id/TwitWeb"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/https_www_twitter_com_who"
@@ -224,6 +227,7 @@
                     />
 
                 <TextView
+                    android:id="@+id/IgWeb"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/https_www_instagram_com_who"
@@ -246,6 +250,7 @@
                     />
 
                 <TextView
+                    android:id="@+id/LInkedWeb"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/https_www_linkedin_com_company_world_health_organization"
